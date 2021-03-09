@@ -1,5 +1,7 @@
-# BMI Calculator
-![App Preview](bmi-calculator.gif)
+<p align="center">
+  <img src="bmi-calculator.gif" alt="animated" />
+</p>
+<h1 align="center"> BMI Calculator</h1>
 
 ## Goal
 
